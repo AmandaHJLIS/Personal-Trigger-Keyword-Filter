@@ -1,6 +1,6 @@
 # Personal Trigger Keyword Filter
 
-Keyword Filter for PTSD and other conditions.
+A keyword Filter for PTSD and other mental health conditions.
 
 ## Setup
 
