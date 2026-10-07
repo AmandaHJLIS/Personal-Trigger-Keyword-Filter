@@ -54,6 +54,10 @@ When a configured keyword is detected on a webpage:
 
 The filter also monitors dynamically loaded content, making it suitable for websites that use single-page navigation or load content without refreshing the page.
 
+## License
+
+This project is licensed under the MIT License. See the (LICENSE) file for details.
+
 ### Important
 
 This is a **personal safety/content-filtering tool**, not a guaranteed blocker. Websites may load content in ways the script cannot detect, and determined users can bypass the warning.
